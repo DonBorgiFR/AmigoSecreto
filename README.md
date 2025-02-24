@@ -44,9 +44,6 @@ Las contribuciones son bienvenidas.  Si encuentras algún error o tienes alguna 
 
 Este proyecto está bajo la Licencia [MIT License](LICENSE) - ver el archivo LICENSE para más detalles. (Nota: Debes crear un archivo LICENSE y elegir una licencia apropiada, por ejemplo, la MIT License, que es muy común para proyectos de código abierto).
 
-## Demo Online
-
-[Link a una demo online, si está disponible. Por ejemplo en GitHub Pages, Netlify, o similar] (Opcional).
 
 ## Autor
-[Tu nombre y opcional un link a tu perfil de GitHub o similar]
+Borja Felix Rojas
